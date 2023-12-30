@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohit27com
+- 👋 Hi, I’m @mohit0270
 - 👀 Right now I’m making static websites for individuals and businesses
-- ✅ I know HTML, CSS, Bootstrap, Javascript
+- ✅ I know HTML, CSS, Bootstrap, Javascript, Git, GitHub, React
 - 🌱 I’m currently learning MERN fullstack web development
 - 💞️ I’m looking to collaborate on projects related to frontend web development right now
 - 📫 Reach me on instagram @artbeyondimagination
