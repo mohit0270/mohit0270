@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohit0270
-- ✅ I know HTML, CSS, Bootstrap, Javascript, Git, GitHub, React
+- ✅ I know HTML, CSS, Scss, Tailwind, Bootstrap, Javascript, Typescript, React, Next, Git
 - 🌱 Currently, I’m working on my static website www.mohit27.com
 
 <!---
