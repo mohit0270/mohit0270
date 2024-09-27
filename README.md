@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit0270
 - ✌🏻 I'm fullstack web developer and app developer
 - ✅ Programming Skills:
-     HTML, CSS, Scss, Tailwind, Bootstrap, Javascript, Typescript, React.js, Next.js, React Native, Expo, Git
+     HTML, CSS, Scss, Tailwind, Bootstrap, Javascript, Typescript, React.js, Next.js, React Native, Expo, Express.js, Node.js, Git
 
 <!---
 mohit27com/mohit27com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
