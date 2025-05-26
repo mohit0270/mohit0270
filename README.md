@@ -4,7 +4,7 @@
   Basic skills - HTML, CSS, Javascript, Git  
   Styling libraries / framework - Scss, Tailwind, Bootstrap  
   Frontend web libraries / framework - Typescript, React.js, Next.js, Refine  
-  Component libraries - Headless UI, Ant design  
+  Component libraries - Headless UI, Hero UI, Ant design  
   Frontend Mobile libraries / framework - React Native, Expo  
   Backend - Node.js, Express.js, Drizzle, Postgres SQL
 
