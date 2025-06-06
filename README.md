@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mohit
 - ✌🏻 I'm fullstack web developer and app developer
 - ✅ Programming Skills:  
-  Basic skills - HTML, CSS, Javascript, Git  
+  Basic skills - HTML, CSS, Javascript, Typescript, Git  
   Styling libraries / framework - Scss, Tailwind, Bootstrap  
-  Frontend web libraries / framework - Typescript, React.js, Next.js, Refine  
+  Frontend web libraries / framework - React.js, Next.js, Refine  
   Component libraries - Headless UI, Hero UI, Ant design  
   Frontend Mobile libraries / framework - React Native, Expo  
   Backend - Node.js, Express.js, Drizzle, Postgres SQL
